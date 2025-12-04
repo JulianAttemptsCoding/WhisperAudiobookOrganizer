@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Script to merge chapter files into single chapter files.
-Handles both .mp3 and .Mp3 files with various naming patterns.
-"""
-
 import os
 import sys
 import json
