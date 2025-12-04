@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Robust Whisper-based transcription and chapter-aware file renaming tool.
-Processes MP3 files in order, transcribes them, identifies chapters,
-and renames files according to the specified naming convention.
-"""
 
 import os
 import re
